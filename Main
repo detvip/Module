@@ -74,7 +74,7 @@ getgenv().Module = {
     --
 
     --
-    TargetPart = {"Head"},
+    TargetPart = {"HumanoidRootPart"},
     --
 
     --
